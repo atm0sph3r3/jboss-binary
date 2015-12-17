@@ -1,4 +1,4 @@
-== Creating a Docker image and pushing to OS registry
+# Creating a Docker image and pushing to OS registry
 1. Create a Docker file (Dockerfile in repo)
 2. Tag the Docker image 
 ```
